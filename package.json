@@ -1,7 +1,8 @@
 {
 	"author": "Harsha Vardhan", 
 	"name": "fcc-learn-npm-package-json",
-	"description": "This is my first",
+	"description": "This is my first project",
+	"keywords": ["freecodecamp", "webDevelopment", "backEnd"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
