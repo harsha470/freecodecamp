@@ -3,6 +3,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"description": "This is my first project",
 	"keywords": ["freecodecamp", "webDevelopment", "backEnd"],
+	"license": "IIIT Allahabad",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
