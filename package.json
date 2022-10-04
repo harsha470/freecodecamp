@@ -1,13 +1,17 @@
 {
-	"author": "Harsha Vardhan", 
+	"author": "Harsha Vardhan",
 	"name": "fcc-learn-npm-package-json",
 	"description": "This is my first project",
-	"keywords": ["freecodecamp", "webDevelopment", "backEnd"],
+	"keywords": [
+		"freecodecamp",
+		"webDevelopment",
+		"backEnd"
+	],
 	"license": "IIIT Allahabad",
 	"version": "1.1.0",
 	"dependencies": {
 		"express": "^4.14.0",
-		"@freecodecamp/example" : "1.1.0"
+		"@freecodecamp/example": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
